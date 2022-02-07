@@ -1,0 +1,4 @@
+Bundle-Name: show-user-form
+Bundle-SymbolicName: show.user.form
+Bundle-Version: 1.0.0
+Export-Package: show.user.form.constants
